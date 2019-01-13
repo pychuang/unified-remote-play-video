@@ -26,6 +26,11 @@ actions.rightkey = function()
 	keyboard.stroke("right");
 end
 
+--@help space
+actions.spacekey = function()
+	keyboard.stroke("space");
+end
+
 
 dragging = false;
 

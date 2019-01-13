@@ -7,6 +7,7 @@
 	</row>
 	<row weight="1">
 		<button color="orange" icon="arrowleft" ontap="leftkey" />
+		<button color="orange" icon="playpause" ontap="spacekey" />
 		<button color="orange" icon="arrowright" ontap="rightkey" />
 	</row>
 	<row weight="4">
